@@ -33,6 +33,5 @@
     </td>
   </tr>
 </table>
-## snake 
 
 ![snake gif](https://github.com/materphuong/materphuong/blob/output/github-contribution-grid-snake.gif)
