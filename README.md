@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://www.hutech.edu.vn/)
+- ✍ I'm a student of: [Ho Chi Minh city University Technology ](https://www.hutech.edu.vn/)
 
 ## 📫 How to reach me:
 
